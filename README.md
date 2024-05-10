@@ -13,7 +13,7 @@ Level 1 = Defensive zone turnover
 Level 2 = Successful zone exit without a subsequent successful offensive zone entry
 Level 3 = Successful zone exit w/ subsequent successful offensive zone entry
 Level 4 = Successful zone entry w/ subsequent successful offensize entry and a shot attempt
-Level 4 = Successful zone entry w/ subsequent successful offensize entry and a goal scored
+Level 5 = Successful zone entry w/ subsequent successful offensize entry and a goal scored
 
 Using the above rating scale, each zone exit attempt was scored based on its level, where a level 1 is a score of 1/5, level 2 is a score of 2/5, and so on. Then to further evaluate an individual player's talent, this is calculated by SUM(zone exit level) / (5 * zone exit attempts).
 
